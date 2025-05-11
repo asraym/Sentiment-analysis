@@ -5,3 +5,6 @@ __pycache__/
 *.pyd
 *.db
 *.zip
+.DS_Store
+venv/
+
